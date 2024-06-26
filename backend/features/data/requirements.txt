@@ -1,0 +1,4 @@
+hume
+hume[stream]
+python-dotenv
+pandas

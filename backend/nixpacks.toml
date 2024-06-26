@@ -1,0 +1,4 @@
+[start]
+cmd = 'gunicorn applications:app'
+
+providers='python'
